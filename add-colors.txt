@@ -3,4 +3,5 @@ blue
 green
 yellow
 brown
+red
 pink
