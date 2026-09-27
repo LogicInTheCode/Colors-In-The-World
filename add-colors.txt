@@ -5,3 +5,4 @@ yellow
 brown
 red
 pink
+purple
